@@ -1,0 +1,49 @@
+body {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 12px;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+table {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+th {
+    background-color: beige;
+    text-align: center;
+    padding: 3px;
+}
+
+td {
+    padding: 3px;
+    text-align: center;
+}
+
+progress::-moz-progress-bar { background: green; }
+progress::-webkit-progress-value { background: green; }
+progress { color: green; }
+
+label {
+    margin-right: 3px;
+}
+
+span {
+    font-size: 10px;
+    padding: 1px;
+}
+
+.badge {
+  color: auto;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+}

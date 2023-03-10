@@ -1,0 +1,39 @@
+# username & password UOC
+username = ""
+password = ""
+
+# Download chromedriver here: https://chromedriver.chromium.org/downloads
+path_executable_chromedriver = "C:\\Users\\Sergi\\Downloads\\chromedriver_win32\\chromedriver.exe"
+
+# classroomId list
+classroomIds = ['931663', '933923', '933930', '931683', '932501','935022', '949962']
+
+# classroomId color (hex code from rgb https://www.rgbtohex.net/)
+[classroomId_colors]
+931663 = "#ECE6E4"
+933923 = "#EEF4D0"
+933930 = "#ECD4D2"
+931683 = "#EAF6F0"
+932501 = "#F9F4F2"
+935022 = "#D07B6C"
+949962 = "#D4393A"
+
+# classroomId classroom name
+[classroomId_names]
+931663 = "Diseño y uso de bases de datos analíticas"
+933923 = "Fundamentos de la ciencia de datos"
+933930 = "Estadística avanzada"
+931683 = "Fundamentos de redes y arquitecturas"
+932501 = "Minería de datos"
+935022 = "Laboratorio en Python y R"
+949962 = "Laboratorio de Soporte al entorno VDI"
+
+# classroomId subjectId
+[classroomId_subjectIds]
+931663 = 927570
+933923 = 928858
+933930 = 928861
+931683 = 927582
+932501 = 927977
+935022 = 929622
+949962 = 947762
