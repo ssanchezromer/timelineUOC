@@ -10,7 +10,7 @@ Library <code>uoc.py</code> is used for get timeline in all classrooms.<br />Whe
 <ul>
 <li>timeline.html </li>
 <li>timeline.csv (for use in another programs like Notion)</li>
-<li>timeline.ical (for use in Calendars)</li>
+<li>timeline.ics (for use in Calendars)</li>
 </ul>
 
 Also get messages and show toast notifications (tested on Windows 10).
